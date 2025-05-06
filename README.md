@@ -1,16 +1,17 @@
-# m3w1d2_first_flutter_project
+# First Flutter Project
+This is a basic Flutter application designed to demonstrate the structure of a typical Flutter project, including usage of StatelessWidget, StatefulWidget, layout widgets like Row and Column, and styling with Container and BoxDecoration.<br>
 
-A new Flutter project.
+## Preview
+The app displays a simple 2x2 grid with numbers 1 through 4, each in a styled green container.
+
+## Features
+- Basic Flutter app structure (main(), MaterialApp, Scaffold)
+- Stateless and Stateful widgets
+- Responsive layout using Column and Row
+- UI styling using Container, BoxDecoration, TextStyle, and padding
+- Theme customization with ThemeData
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK installed
+- Compatible IDE like VS Code or Android Studio
